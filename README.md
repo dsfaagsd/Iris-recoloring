@@ -3,10 +3,15 @@ Iris Recoloring Project 🌈
 This project allows users to recolor the iris of detected eyes in an image using Python and machine learning-based face and eye detection models.
 
 Features
+
 Detect faces and locate eyes in an image.
+
 Change the iris color to a user-defined shade.
+
 Outputs an updated image with recolored irises.
+
 Installation
+
 Clone this repository:
 
 bash

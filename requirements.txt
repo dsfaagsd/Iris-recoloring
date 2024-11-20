@@ -1,0 +1,3 @@
+fdlite
+Pillow
+numpy

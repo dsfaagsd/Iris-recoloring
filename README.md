@@ -19,12 +19,12 @@ pip install -r requirements.txt
 
 Usage
 1. Add the path to your image in the main() function inside Iris_recoloring.py.
-2. Run the script:
-python Iris_recoloring.py
+2. Run the script: python Iris_recoloring.py
 3.Select a color for the iris when prompted.
 4.The updated image will display with the chosen iris color.
 
 Requirements
+
 Python 3.7+
 Libraries:
 fdlite

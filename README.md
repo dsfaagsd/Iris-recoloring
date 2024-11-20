@@ -9,19 +9,16 @@ Installation
 Clone this repository:
 
 bash
-코드 복사
 git clone https://github.com/dsfaagsd/Iris-recoloring.git  
 cd Iris-recoloring  
 Install the required dependencies:
 
 bash
-코드 복사
 pip install -r requirements.txt  
 Usage
 Add the path to your image in the main() function inside Iris_recoloring.py.
 Run the script:
 bash
-코드 복사
 python Iris_recoloring.py  
 Select a color for the iris when prompted.
 The updated image will display with the chosen iris color.
